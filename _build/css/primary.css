@@ -4,8 +4,18 @@
 		-- by Jack Riales
 ====================================
 */
-/* line 9, ../scss/primary.scss */
-*, *:before, *:after {
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
+/*
+====================================
+	== Use this file to define SASS variables
+====================================
+*/
+/*
+====================================
+	== Use this file to define global styles
+====================================
+*/
+/*
+====================================
+	== Use this file to define CSS classes
+====================================
+*/

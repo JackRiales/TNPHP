@@ -15,4 +15,4 @@ Usage:
 
 4) Run grunt. This will take the compiled CSS files from SASS and minify them as they're created.
 
-5) Begin editing using SCSS in the _build/scss folder.
+5) Edit using SCSS in the _build/scss folder and PHP "part" files in php/part.
