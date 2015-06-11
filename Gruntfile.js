@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         cssmin:{
             combine: {
               files: {
-                '_build/css/styles.css': ['_build/css/normalize.css', '_build/css/base.css', '_build/css/entypo.css', '_build/css/default.css', '!_build/css/styles.css']
+                '_build/css/styles.css': '_build/css/*.css'
               }
             },
             minify: {
@@ -35,7 +35,7 @@ module.exports = function(grunt) {
       watch: {
         css: {
           files: [
-            '_build/css/normalize.css', '_build/css/base.css', '_build/css/entypo.css', '_build/css/default.css', '!_build/css/styles.css'
+            '_build/css/*.css'
           ],
           tasks: ['cssmin'],
         },

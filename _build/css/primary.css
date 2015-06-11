@@ -4,7 +4,8 @@
 		-- by Jack Riales
 ====================================
 */
-/* line 9, ../scss/style.scss */
+/* line 9, ../scss/primary.scss */
 *, *:before, *:after {
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
