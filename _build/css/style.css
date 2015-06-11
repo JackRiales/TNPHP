@@ -1,0 +1,10 @@
+/*
+====================================
+	== That Naughty Panda PHP Framework
+		-- by Jack Riales
+====================================
+*/
+/* line 9, ../scss/style.scss */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
