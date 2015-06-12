@@ -1,0 +1,7 @@
+<pages>
+	<page>
+		<name>Home</name>
+		<href>/index.php</href>
+		<content>/php/content/index.html</content>
+	</page>
+</pages>
