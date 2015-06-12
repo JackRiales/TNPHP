@@ -72,7 +72,7 @@
 		<hr>
 		<h3>How to Edit Your Content</h3>
 		<p>
-			The content of your page is made up of HTML code. Most of this code I've written for you as the design of your site, but certain bits of it you may want to change.<br>
+			The content of your page is made up of HTML code. Most of this code I've written for you as the design of your site, but certain bits of it you may want to change.
 			In this section I'll guide you through doing some minimalist HTML code editing.
 		</p>
 		<p>
@@ -84,7 +84,6 @@
 			&lt;p&gt;This is paragraph text!&lt;/p&gt;<br><br>
 			Below I'll show you what each tag makes text look like. Generally, you'll just need to use the p tag.<br>
 			Get as fancy as you want. Just be sure to keep checking up on your website to make sure it looks okay!<br>
-			If ever you get into trouble and want to reset back into what it originally was, hit the reset button and it'll go back to what I made it in the first place.
 		</p>
 	</main>
 	
