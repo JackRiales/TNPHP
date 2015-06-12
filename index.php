@@ -1,6 +1,6 @@
 <?php
 	# Defines the site root. Used for inclusions.
-	$site_name = $_SERVER["DOCUMENT_ROOT"]."/TNPHP";
+	$site_name = $_SERVER["DOCUMENT_ROOT"]."/tnphp";
 ?>
 
 <!DOCTYPE html>
